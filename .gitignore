@@ -1,0 +1,17 @@
+# Rust build outputs
+/target/
+
+# Backup files
+**/*.rs.bk
+
+# Executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Cargo package manager files
+Cargo.lock
+
+# Miscellaneous
+.DS_Store
