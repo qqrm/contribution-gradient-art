@@ -1,5 +1,8 @@
-# Contribution Gradient Art
+## Contributing
 
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on formatting, linting, tests, and pull requests.
+
+=======
 ## Pipeline Goals
 
 This project aims to create visual gradient patterns on your GitHub contribution graph. The provided pipeline automatically commits to the repository on a schedule, gradually building the desired pattern over time.
